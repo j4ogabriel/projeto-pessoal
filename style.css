@@ -1,0 +1,21 @@
+*{
+        
+    header{
+        background-color: blanchedalmond;
+        padding: 0px;
+        border-top: 0px;
+        margin-top: 0;
+        text-align: center;
+          }
+    body{
+        background-color: green;
+        border-bottom: 0;
+        margin: 0;
+        }
+    header div a{
+        text-decoration: none;
+        text-overflow: ellipsis;
+                }
+    
+    
+ }
